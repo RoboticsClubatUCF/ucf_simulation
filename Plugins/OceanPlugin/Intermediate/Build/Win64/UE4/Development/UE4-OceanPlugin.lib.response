@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4\Development\OceanPlugin\PCH.OceanPlugin.h.obj"
+"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
+"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+"D:\Users\dev\OceanProject\Intermediate\Build\Win64\UE4\Development\OceanPlugin\PCLaunch.rc.res"
+/OUT:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Binaries\Win64\UE4-OceanPlugin.lib"
