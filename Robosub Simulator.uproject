@@ -18,10 +18,6 @@
 		{
 			"Name": "UnrealCV",
 			"Enabled": true
-		},
-		{
-			"Name": "OceanPlugin",
-			"Enabled": false
 		}
 	]
 }
