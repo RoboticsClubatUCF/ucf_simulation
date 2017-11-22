@@ -4,6 +4,14 @@
 	"BuildId" : "7d5229ac-d3e2-4191-ac6f-9a43d8706aee",
 	"Modules" : 
 	{
+<<<<<<< HEAD
+<<<<<<< HEAD
+		"OceanPlugin" : "UE4Editor-OceanPlugin.dll"
+=======
 		"OceanPlugin" : "UE4Editor-OceanPlugin-482.dll"
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+		"OceanPlugin" : "UE4Editor-OceanPlugin-482.dll"
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 	}
 }

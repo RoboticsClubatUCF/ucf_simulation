@@ -1,0 +1,85 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"PxFoundationPROFILE_x64.dll"
+/DELAYLOAD:"PxPvdSDKPROFILE_x64.dll"
+/DELAYLOAD:"PhysX3PROFILE_x64.dll"
+/DELAYLOAD:"PhysX3CookingPROFILE_x64.dll"
+/DELAYLOAD:"PhysX3CommonPROFILE_x64.dll"
+/DELAYLOAD:"APEXFrameworkPROFILE_x64.dll"
+/LIBPATH:"ThirdParty/PhysX/Lib/Win64/VS2015"
+/LIBPATH:"ThirdParty/PhysX/Lib/Win64/VS2015"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"PhysX3PROFILE_x64.lib"
+"PhysX3ExtensionsPROFILE_x64.lib"
+"PhysX3CookingPROFILE_x64.lib"
+"PhysX3CommonPROFILE_x64.lib"
+"PsFastXmlPROFILE_x64.lib"
+"PxFoundationPROFILE_x64.lib"
+"PxPvdSDKPROFILE_x64.lib"
+"PxTaskPROFILE_x64.lib"
+"APEXFrameworkPROFILE_x64.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Landscape.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RHI.lib"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RenderCore.lib"
+/OUT:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin-9805.dll"
+/IMPLIB:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin-9805.suppressed.lib"
+/PDB:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin-9805.pdb"
+/ignore:4078

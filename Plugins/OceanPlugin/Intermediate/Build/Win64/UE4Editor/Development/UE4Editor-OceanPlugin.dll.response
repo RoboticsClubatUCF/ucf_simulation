@@ -35,8 +35,18 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+<<<<<<< HEAD
+<<<<<<< HEAD
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+=======
 "D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
 "D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
+"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\PCLaunch.rc.res"
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
 "delayimp.lib"
@@ -79,7 +89,19 @@
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Landscape.lib"
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RHI.lib"
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RenderCore.lib"
+<<<<<<< HEAD
+<<<<<<< HEAD
+/OUT:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin.dll"
+/IMPLIB:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin.suppressed.lib"
+/PDB:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin.pdb"
+=======
 /OUT:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin.dll"
 /IMPLIB:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin.suppressed.lib"
 /PDB:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin.pdb"
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+/OUT:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin.dll"
+/IMPLIB:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin.suppressed.lib"
+/PDB:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Binaries\Win64\UE4Editor-OceanPlugin.pdb"
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 /ignore:4078

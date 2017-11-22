@@ -7,8 +7,23 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+<<<<<<< HEAD
+<<<<<<< HEAD
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin.lib"
+=======
+=======
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 "D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.cpp.obj"
 "D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\PCLaunch.rc.res"
 "D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+<<<<<<< HEAD
 /OUT:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin.lib"
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+/OUT:"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OceanPlugin.lib"
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061

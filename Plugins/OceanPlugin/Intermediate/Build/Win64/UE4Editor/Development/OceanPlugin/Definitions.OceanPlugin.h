@@ -36,7 +36,15 @@
 #define ORIGINAL_FILE_NAME "UE4Editor-OceanPlugin.dll"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+#define UE_PROJECT_NAME Robosub Simulator
+=======
 #define UE_PROJECT_NAME OceanProject
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+#define UE_PROJECT_NAME OceanProject
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 #define DEPRECATED_FORGAME DEPRECATED
 #define OCEANPLUGIN_API DLLEXPORT
 #define WITH_PHYSX 1

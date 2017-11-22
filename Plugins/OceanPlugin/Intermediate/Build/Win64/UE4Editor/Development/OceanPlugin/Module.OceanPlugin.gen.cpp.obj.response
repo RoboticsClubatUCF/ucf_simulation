@@ -23,11 +23,25 @@
 /wd4838
 /w44668
 /I "D:\Program Files\Epic Games\UE_4.17\Engine\Source"
+<<<<<<< HEAD
+<<<<<<< HEAD
+/I D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Source\OceanPlugin\Private
+/I D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Source
+/I D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Source\OceanPlugin\Classes
+/I D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OceanPlugin
+/I D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Source\OceanPlugin
+=======
+=======
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 /I D:\Users\dev\OceanProject\Plugins\OceanPlugin\Source\OceanPlugin\Private
 /I D:\Users\dev\OceanProject\Plugins\OceanPlugin\Source
 /I D:\Users\dev\OceanProject\Plugins\OceanPlugin\Source\OceanPlugin\Classes
 /I D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OceanPlugin
 /I D:\Users\dev\OceanProject\Plugins\OceanPlugin\Source\OceanPlugin
+<<<<<<< HEAD
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 /I "D:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Engine\Classes"
 /I "D:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Engine\Public"
 /I "D:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Engine\Public\AI"
@@ -382,9 +396,21 @@
 /FI"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
+<<<<<<< HEAD
+<<<<<<< HEAD
+"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp"
+/FI"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Definitions.OceanPlugin.h"
+/Fo"D:\Users\dev\ucf_simulation\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+=======
 "D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp"
 /FI"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Definitions.OceanPlugin.h"
 /Fo"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp"
+/FI"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Definitions.OceanPlugin.h"
+/Fo"D:\Users\dev\OceanProject\Plugins\OceanPlugin\Intermediate\Build\Win64\UE4Editor\Development\OceanPlugin\Module.OceanPlugin.gen.cpp.obj"
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
 /TP
 /GR-
 /W4

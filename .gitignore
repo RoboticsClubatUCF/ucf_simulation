@@ -73,3 +73,14 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+# Too large for GitHub
+Content/Sub/Ness_mesh.uasset
+Content/Sub/Ness-InsidesSupressed_002.uasset
+Content/ShipsAndExamples/Ness-InsidesSupressed_002.uasset
+=======
+>>>>>>> 8b683923a06151c0902a22a410c7caa957971891
+=======
+>>>>>>> 26acfffe57e8a565d1348995aace6e6a76a40061
