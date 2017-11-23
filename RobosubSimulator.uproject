@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.17",
+	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -11,14 +11,6 @@
 		}
 	],
 	"Plugins": [
-		{
-			"Name": "UnrealCV",
-			"Enabled": true
-		},
-		{
-			"Name": "UnrealCV",
-			"Enabled": true
-		},
 		{
 			"Name": "OceanPlugin",
 			"Enabled": false
